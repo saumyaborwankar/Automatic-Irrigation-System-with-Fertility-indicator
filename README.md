@@ -4,3 +4,4 @@ So here i have created a smart and useful project that would help out the farmer
 The difficult task comes when there is need for checking the fertility of the soil.
 Every technical aspect of the project is described in a pdf file named auto-irrigation.pdf
 This project is implemented on Arduino Uno board.
+If there's a problem with the code please raise issues.
